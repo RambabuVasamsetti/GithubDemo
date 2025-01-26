@@ -9,7 +9,7 @@ public class SampleRestController {
 	
 	@RequestMapping("/springboot")
 	public String hello() {
-		return "First SpringBoot Application";
+		return "First SpringBoot Application!!";
 	}
 	
 
